@@ -1,0 +1,13 @@
+C:\Users\Matthew\Documents\Costa Norte RP\bin\Debug\Costa Norte RP.exe.config
+C:\Users\Matthew\Documents\Costa Norte RP\bin\Debug\Costa Norte RP.exe
+C:\Users\Matthew\Documents\Costa Norte RP\bin\Debug\Costa Norte RP.pdb
+C:\Users\Matthew\Documents\Costa Norte RP\bin\Debug\Costa Norte RP.xml
+C:\Users\Matthew\Documents\Costa Norte RP\bin\Debug\ObjectDumping.dll
+C:\Users\Matthew\Documents\Costa Norte RP\obj\Debug\CostaNorteRP.Launcher.resources
+C:\Users\Matthew\Documents\Costa Norte RP\obj\Debug\CostaNorteRP.Resources.resources
+C:\Users\Matthew\Documents\Costa Norte RP\obj\Debug\Launcher.vbproj.GenerateResource.cache
+C:\Users\Matthew\Documents\Costa Norte RP\obj\Debug\Launcher.vbproj.CoreCompileInputs.cache
+C:\Users\Matthew\Documents\Costa Norte RP\obj\Debug\Launcher.vbproj.CopyComplete
+C:\Users\Matthew\Documents\Costa Norte RP\obj\Debug\Costa Norte RP.exe
+C:\Users\Matthew\Documents\Costa Norte RP\obj\Debug\Costa Norte RP.xml
+C:\Users\Matthew\Documents\Costa Norte RP\obj\Debug\Costa Norte RP.pdb
